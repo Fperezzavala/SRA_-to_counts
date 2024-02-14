@@ -1,2 +1,2 @@
 # SRA_to_counts
-just some wrapper to convert and SRA file to counts using Kallisto and Trimgalore
+just some wrapper to convert SRA file to counts using Kallisto and Trimgalore
